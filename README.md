@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PeterCCLiu
-- 👀 I’m interested in Blockchain, Applied Cryptography, IoT
+- 👀 I’m interested in Blockchain, Cryptography, IoT
 - 🌱 I’m currently learning MERN, Javascript; DevOps
 - 💞️ I’m looking to collaborate on Blockchain R&D projects
 - 📫 Reach me at: Peter.CC.Liu@cn.ey.com
